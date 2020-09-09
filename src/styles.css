@@ -1,0 +1,23 @@
+body {
+  font-family: cursive;
+  font-weight: bolder;
+  background: #78e4db;
+}
+img {
+  position: relative;
+  top: 25px;
+  left: 25px;
+  padding-top: 50px;
+}
+.imgA1 {
+  z-index: 1;
+}
+.imgB1 {
+  z-index: 3;
+  position: absolute;
+  left: 295px;
+  top: 345px;
+}
+bullet {
+  position: relative;
+}
